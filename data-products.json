@@ -1,0 +1,760 @@
+{
+  "NOVIS Best Value": {
+    "GTC - 10191123": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjfFom5qF85Ol9mYxA51xtoBl0OOR4G8S3D4LbG2jMOvqQ?e=TOCqv6",
+      "Effective From": "2019-11-04",
+      "Till": "2019-12-31"
+    },
+    "GTC - 10200325": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Er2ofu63NTJJo1lC8rl6A60BsWIKpfRuDSaCAohnyAj1ng?e=okXP1a",
+      "Effective From": "2020-03-25",
+      "Till": "2020-09-30"
+    },
+    "GTC - 10200927": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ei1pfklJtXVAvWC7n5s4okYBL5Drds9HbqHZqOdYaoMC0g?e=xBygZb",
+      "Effective From": "2020-09-01",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Flexible Insurance": {
+    "AVB - 50210606": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkF1SuzFJ9pHvQpz1iMRpS0BDfBBIWVHyfzDsnc8L11ctQ?e=PzgBCB",
+      "Effective From": "2021-06-11",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Flexible Life": {
+    "AVB - 40210013": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ej3iVoRvwX1BlLCtzCwFdZUBvBM2rrN1BvLZ5yUoJr8BmQ?e=u5e0Wf",
+      "Effective From": "2021-11-18",
+      "Till": "2022-07-21"
+    },
+    "AVB - 40210312": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhXWKFT6kJdOtrhVrSG-ZfgBUFF1aFmpr0zpbu-YQeOT7A?e=CyzIoV",
+      "Effective From": "2021-03-10",
+      "Till": "2022-01-01"
+    },
+    "AVB - 40220014": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EniPq7FNa7VIlKOMkDtiiRgB6S3AsJ2s_Tuf8aEdE5eZwA?e=U4tDLM",
+      "Effective From": "2022-10-01",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Flexible Savings Plan": {
+    "GTC - 17200508": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgIVsz9pfMdKmDGIS20FSrcBrNE10gIJUQf-1a2mN06b0Q?e=d5qa2b",
+      "Effective From": "2020-06-02",
+      "Till": "2021-09-16"
+    },
+    "GTC - 17230014": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjE80CH6QqRCsCZE_Uy8n2wBFQhdPFWOuLP80tDJKww-ng?e=GKan4p",
+      "Effective From": "2023-03-01",
+      "Till": "2023-06-05"
+    },
+    "GTC - 17210810": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ep8ew591XxhJimUUso7Ib-4B453Y34MASXyZSPmdCI7ikQ?e=8CEizv",
+      "Effective From": "2021-08-02",
+      "Till": "1970-01-01"
+    }
+  },
+  "NOVIS Gemini Life": {
+    "GTC - 60230034": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpyJAoytciFEtKwSU69q6fcB5Nq2ofNJ0LwOUtaXcuUs5Q?e=cj5x9E",
+      "Effective From": "2023-01-01",
+      "Till": "2023-06-05"
+    },
+    "GTC - 60210715": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvLTsHv10tJLvHQzru0Y4EkB4wY7mDGO_7t6RYVAeSrgcw?e=20634r",
+      "Effective From": "2021-07-30",
+      "Till": "2022-05-15"
+    },
+    "GTC - 60220025": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ej0KSrj2_HpDk6Fc8yrLm6QBfumxP7V9iDb-XaajmsrfEw?e=Flxtya",
+      "Effective From": "2022-04-21",
+      "Till": "2022-10-21"
+    },
+    "GTC - 60220029": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvsWr8RX3c1Ihk1uh_Qu584BZFlnhHRbgmNI5W0ID8Rnvg?e=vZOJNc",
+      "Effective From": "2022-08-02",
+      "Till": "2023-02-06"
+    }
+  },
+  "NOVIS Infinity Life": {
+    "GTC - 60191108": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtRoT-n7SgFMm31eg-0nxw0BykN-KVvfbTXv5Mytvc1XTA?e=rl20dq",
+      "Effective From": "2019-11-04",
+      "Till": "2020-05-31"
+    },
+    "GTC - 60200510": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EoZU8ITpg3pEkWm5GwpOEJkB7Ecg-ghaH0oeIbSn-pNRdw?e=LoEUtA",
+      "Effective From": "2020-05-12",
+      "Till": "2021-09-30"
+    },
+    "GTC - 60210817": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EsR3Ywvy9tlAhvdvx12uN-4BCs_vcQJH_poGIZorTIQR5A?e=wHhWU3",
+      "Effective From": "2021-08-02",
+      "Till": "2022-02-28"
+    },
+    "GTC - 60230031": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkEc0KnTGsNLrYkkjaMeN8ABv-Qs5-ucKKObmZ2clKPHQg?e=3LJT0J",
+      "Effective From": "2023-01-01",
+      "Till": "2023-06-05"
+    },
+    "GTC - 60220019": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EiWI-e78T8VGmq_PHCDq-RYBOduM8_KefRJ-0uUeXbYClA?e=dbSQSB",
+      "Effective From": "2022-01-17",
+      "Till": "2022-05-15"
+    },
+    "GTC - 60220022": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Eo4SCyshb7dAn-uharWXwmYBZkc_lrkKTlrrmBs_63Y_iA?e=8ZVnj9",
+      "Effective From": "1970-01-01",
+      "Till": "2022-10-21"
+    },
+    "GTC - 60220026": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ekb6eQARPKJNkXidU_l2-1cBuKa6wGYqHMqqyOWo_TG4mA?e=dcBGNI",
+      "Effective From": "2022-08-02",
+      "Till": "2023-02-06"
+    }
+  },
+  "NOVIS Infinity Life Gold": {
+    "GTC - 60200511": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EsLVpeLvGkxNohSe3_MrHskBkdfTkKgFCl7UkOPVOdWS9g?e=lHIw5J",
+      "Effective From": "2020-05-12",
+      "Till": "2021-09-30"
+    },
+    "GTC - 60210818": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/ElyIozCKfPBIiuqBKPwB6MMBusompaw34gT6HhxnsTHmkQ?e=eVUFyg",
+      "Effective From": "2021-08-02",
+      "Till": "2022-02-28"
+    },
+    "GTC - 60220020": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Euw0jXIGiddMjkGhxPZWdfQBVFk5agZxJggW8876kXVR9A?e=Cjpl9c",
+      "Effective From": "2022-01-17",
+      "Till": "2022-05-15"
+    },
+    "GTC - 60230032": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtZwJAqV2jtFu88GLGartswBYSL9DUglCxkMKsl6z52Ylw?e=qXkHzs",
+      "Effective From": "2023-01-01",
+      "Till": "2023-06-05"
+    },
+    "GTC - 60220023": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqeSmXpU3FdHuMyS-opXKmEB8NUq0bfahEJjklwcAdrdQg?e=fEk2eA",
+      "Effective From": "1970-01-01",
+      "Till": "2022-10-21"
+    },
+    "GTC - 60220027": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EndXrn3QNOhGs1A54nSh-doBsyXfhxDylWDVItnJwDIK7Q?e=tdj4ua",
+      "Effective From": "2022-08-02",
+      "Till": "2023-02-06"
+    }
+  },
+  "NOVIS Life Savings Plan": {
+    "GTC - 17191006": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Er3FG5TvY2JIsV4OpUDW3i4B-SWESdKil55CCAQ1GR90Tg?e=POngbu",
+      "Effective From": "2019-10-08",
+      "Till": "2020-02-01"
+    },
+    "GTC - 17191207": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EotP7xZIiMNBq3Vg5Q18ITMB7YW0C-BLubQeJRSyqzMRUA?e=wqWlaY",
+      "Effective From": "2019-12-02",
+      "Till": "2021-09-16"
+    },
+    "GTC - 17210809": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EoE-Y-YBTI5KtWoZp19RwhkB96HFh_7WAgBZNgNX-2hbxA?e=339J8Y",
+      "Effective From": "2021-08-02",
+      "Till": "2023-06-05"
+    },
+    "GTC - 17230013": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EimpkrrSrElJr80VLGG8Td0BG_u1_7O0-WOiITDFu_1igA?e=qx3jRt",
+      "Effective From": "2023-03-01",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Responsible Life": {
+    "GTC - 10191122": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EsY2mJugE8ZIm8WSYUgZKyEBCE2FhG2n4eoTxHOAuGZ_dQ?e=qCP2C9",
+      "Effective From": "2019-11-04",
+      "Till": "2019-12-31"
+    },
+    "GTC - 10200324": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ek9ywN2Bgy5PpI9WmDfvdsABMEXcfKb9-qf6Huve6RKDbQ?e=DsQzN8",
+      "Effective From": "2020-03-25",
+      "Till": "2020-09-30"
+    },
+    "GTC - 10200926": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjM9RQPk8qFFjPsjFHoGGAMBfjDUFvqzD85eMkldrnUhZQ?e=Zbst24",
+      "Effective From": "2020-09-01",
+      "Till": "2023-06-05"
+    }
+  },
+  "Aasa Accidental Permanent and Partial Disability and Critical Illness Protection": {
+    "GTC - 80180204": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgyxE0toadhHgtAtnNghmbgBMMpn8vuF_DBLSh3bIiS5dQ?e=6O6dqf",
+      "Effective From": "1970-01-01",
+      "Till": "1970-01-01"
+    }
+  },
+  "Aasa Accidental Permanent Consequences greater than 50% and Critical Illness Protection": {
+    "GTC - 80171103": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqEI6oDAVdZJr4o7oncVZmEBVqkggU7UEzyk6xga0R0Okw?e=3OCyIe",
+      "Effective From": "1970-01-01",
+      "Till": "1970-01-01"
+    }
+  },
+  "SE": {
+    "Aasa Credit Insurance": {
+      "GTC - 14171101": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtQg0Okyn8FInd6Un92FE_kB1VqNTZ64IrOcg1SVD2YNFw?e=krjAoB",
+        "Effective From": "1970-01-01",
+        "Till": "1970-01-01"
+      }
+    }
+  },
+  "FI": {
+    "Aasa Credit Insurance": {
+      "GTC - 80161101": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Et5vXMt91KpDpOq-VZLMgpsBRpPruaqBSG2_ERQ-NAv6Fw?e=6kw34U",
+        "Effective From": "2016-11-23",
+        "Till": "2017-10-31"
+      },
+      "GTC - 80171102": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhUfhWZdh61PnT31vxVULwsBqYOhZJwgXmaZxR1_o3tDSw?e=bfBJ8Y",
+        "Effective From": "2017-11-01",
+        "Till": "2019-07-31"
+      }
+    }
+  },
+  "NOVIS Best Protection": {
+    "GTC - 10210629": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnRgOSAQsBhNrAey2k1WKrEB-gu8KTDxMrGit39HpbHMtA?e=ujfdIB",
+      "Effective From": "2021-06-30",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Bezpečný život": {
+    "GTC - 10210128": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpNoPOYcuTRLqfzMQDTWRo4BXmsYUlCOk-9ztEaToQpOFw?e=BZ8day",
+      "Effective From": "2021-01-21",
+      "Till": "2021-12-31"
+    }
+  },
+  "NOVIS Life Protector": {
+    "GTC - 17210811": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Eo7SE1yA6t1HqZaKgqX1F4cBxeIeglFjOStsKS5H2f5_QQ?e=Sit3do",
+      "Effective From": "2021-08-17",
+      "Till": "2021-02-28"
+    },
+    "GTC - 17211012": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/El__noZ5SLRPiG5PBs43Jj0B4Rn0TVTOrUOTjaSeL9hDiQ?e=Z6rThO",
+      "Effective From": "2021-12-31",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Safety Life": {
+    "GTC - 60190506": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Es0eB-XzbG1JgknnxeTMVXYBFu_CRd1-a00Dn8yILa2Usg?e=PfLgfv",
+      "Effective From": "2019-05-10",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS Safety Life Plus": {
+    "GTC - 60210714": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnV65qWAfvJIl8SOKWktsKABD5ot1amKRhq6xeO7aIqOEQ?e=floJd4",
+      "Effective From": "2021-07-20",
+      "Till": "2023-06-05"
+    },
+    "GTC - 60210413": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Evlz6SUG8DJAmC7-lNbg8M0BnjGFYFKEx-3bZ3Ubkj5qmg?e=0v1xAE",
+      "Effective From": "2021-04-12",
+      "Till": "2022-07-31"
+    }
+  },
+  "Tapaturman ja Vakavan Sairauden Turva": {
+    "GTC - 80200905": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EuYQ00xR5RBMrrx-kJvJuXwBSsCeTmaqsTC2ctcG2UY9CQ?e=6P6ajw",
+      "Effective From": "2020-09-25",
+      "Till": "2023-06-05"
+    }
+  },
+  "NOVIS PIR Insurance": {
+    "GTC - 60190907": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EoucAtupSLlMjQjLNTJx3cEB5KmtAVTtHdUjeUxnYxvkBg?e=ckauR7",
+      "Effective From": "2019-09-02",
+      "Till": "2020-10-15"
+    },
+    "GTC - 60200912": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpbMT1L7Gh9HovLpd8FMreoBkW1vgTa9wqAvjX0IrgeEcQ?e=oerMow",
+      "Effective From": "2020-09-18",
+      "Till": "2021-09-30"
+    },
+    "GTC - 60210816": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EmyqP9KrRpJIpnGzXcemO3MBhHAguWY7yzB5Cn_PYoYF2w?e=865IEH",
+      "Effective From": "2021-08-02",
+      "Till": "2022-02-28"
+    },
+    "GTC - 60220021": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjAR-TBAoRlPsL4Lp23VmxsBUnVKZ3hml6VBpXkVtnyYxw?e=yt3jc0",
+      "Effective From": "2022-01-17",
+      "Till": "2022-05-15"
+    },
+    "GTC - 60230033": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/ElGkenzha95DhS4nCZ_nntcBFszunEY8Qg2dzrT6AqAftA?e=bWvZY2",
+      "Effective From": "2023-01-01",
+      "Till": "2023-06-05"
+    },
+    "GTC - 60220024": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgIIyjqd0fZPmheu6VcGIsABj8w5WHEwhXaEVimjVpZ78A?e=N64cIF",
+      "Effective From": "2022-04-21",
+      "Till": "2022-10-21"
+    },
+    "GTC - 60220028": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EuPcgxDFyUBMqsCnDU0vmRQBDapyEQTdZh0E5SiXxohWew?e=FzTpOc",
+      "Effective From": "2022-08-02",
+      "Till": "2023-02-06"
+    }
+  },
+  "AT": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 50160702": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EldJfqIG5WNHkwpCztT40OkBVjIwCvedd4GUxx92ErE4nA?e=76r4JC",
+        "Effective From": "2016-07-01",
+        "Till": "2017-11-01"
+      },
+      "GTC - 50171104": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Elumfkr6cIREusNF-pRi2TUBIq-WybtBRqqRCo-HadUzew?e=ihCBQ1",
+        "Effective From": "2017-11-01",
+        "Till": "2018-10-03"
+      },
+      "GTC - 50180705": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ej8bdqtDJi5NvsSiDDQMffABkZtH7-GIqA96oc6O-wxkRw?e=dlckog",
+        "Effective From": "2018-07-30",
+        "Till": "2018-10-03"
+      }
+    }
+  },
+  "NOVIS Univerzální pojištění pro zdravý a dlouhý život": {
+    "GTC - 30150102": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgwskN1GgrRAuFA09nisLmQBLOWx5gprt-EYWP5NgvxEGw?e=QJ6QHu",
+      "Effective From": "2015-01-15",
+      "Till": "2016-11-30"
+    },
+    "GTC - 30150304": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EloQnPC9DZRKpoNc1CGEqvUBOjbR45uHGx9r5UKHV4VQmw?e=cK43rs",
+      "Effective From": "2015-04-10",
+      "Till": "2016-11-30"
+    },
+    "GTC - 30160107": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/ElhaL7TuuutLmtuiBW9mdTsB8rRjg1Xf2kUQH4FCAPF2sg?e=OlGzh2",
+      "Effective From": "2016-01-01",
+      "Till": "2016-11-30"
+    }
+  },
+  "CZ": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 30160809": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ekqv2INCkzNMvxxtSh-tob0Bkfq-NbHpf0VLA-bal1Znaw?e=9ERsrA",
+        "Effective From": "2016-08-15",
+        "Till": "2018-09-30"
+      },
+      "GTC - 30170411": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EiR4i6n2sGJFokII-PYtftgB8wlderbwN2F1IB83sowFtA?e=TQYppG",
+        "Effective From": "2017-04-01",
+        "Till": "2018-09-30"
+      },
+      "GTC - 30171014": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvG-sfLlO35OnqSebr4RS-cBOCJ7wkv_9U4Hs2qltkczhQ?e=ptc9PN",
+        "Effective From": "2017-10-01",
+        "Till": "2019-05-10"
+      },
+      "GTC - 30190316": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhIrdv_ymyxIlRnzhezGbwkBWJOR0Z__Zn-UoQ1UFX1jHg?e=LN0okg",
+        "Effective From": "2019-03-21",
+        "Till": "2019-10-01"
+      }
+    }
+  },
+  "OK Universum": {
+    "GTC - 30150203": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkhNKYbOK65GlYXm-iXZbL0BTrnchgBXu9lFOu5ZkSuJlw?e=NvD0kl",
+      "Effective From": "2015-02-15",
+      "Till": "2016-11-30"
+    },
+    "GTC - 30150303": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Evx5dbR9TQhBmT0-kMoUm6UBgJ1OCzjW9iMnq6difd58nw?e=OUQVDM",
+      "Effective From": "2015-03-15",
+      "Till": "2016-11-30"
+    },
+    "GTC - 30160108": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgwzaEEUMTRFkHB1c_S7bK8Bl4fL5bwg3alp_c0uqbCIAA?e=xis3az",
+      "Effective From": "2016-01-01",
+      "Till": "2017-12-31"
+    },
+    "GTC - 30160810": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EobZ-ACBY4FDtcxCvE06s5kBEauSEkDUTFeMG7eHbBaHww?e=de7Ads",
+      "Effective From": "2016-08-15",
+      "Till": "2017-12-31"
+    },
+    "GTC - 30171215": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ei-08u7C1b5IhosDG5afUTEBCDwDBr8JDviRtWj65hy2Gw?e=yLapMv",
+      "Effective From": "2017-12-01",
+      "Till": "2019-05-10"
+    }
+  },
+  "NOVIS Nachhaltigkeitspolice": {
+    "AVB - 40191210": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ejo3JVQDvrlEo2km4IgkMeIBBe5hF5FiPNkjKOHiwvq27Q?e=epCskh",
+      "Effective From": "2019-12-04",
+      "Till": "2021-01-31"
+    },
+    "AVB - 40201111": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjBjJ5qCUuRJk-fVDC163MwBX4d3ofpWt2RXjXIdYrz7Vg?e=Njj2kx",
+      "Effective From": "2020-11-30",
+      "Till": "2021-03-10"
+    }
+  },
+  "NOVIS Universalversicherung": {
+    "GTC - 40150202": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ek_rzYCqYKdNgWTls1F6PY8BXTLVIGMOQYWlXOPwnkTCUg?e=sKrufN",
+      "Effective From": "2015-03-01",
+      "Till": "2015-11-30"
+    },
+    "GTC - 40150903": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Er8XI9OBdO5KpTonuVNgOa4BJuwbI5gzlsjgFgf5m3Gaqw?e=AdDf2d",
+      "Effective From": "2015-12-01",
+      "Till": "2019-12-31"
+    }
+  },
+  "DE": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 40160306": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/ElzVSpxDJCNMmL6hSLdxDd0BLWzP9YnnmYx9NgSLTrx_ig?e=oqAWXu",
+        "Effective From": "2016-03-01",
+        "Till": "2017-04-01"
+      },
+      "GTC - 40170407": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/El2ZcXfGWGJNlsZicLAh0toBiaJu9mpXDz8Yh98TmRfzDQ?e=j5gHGi",
+        "Effective From": "2017-04-01",
+        "Till": "2018-04-01"
+      },
+      "GTC - 40180309": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvyiUNQYoUZPmw9AxaZHfoMBABrX5_wIMTGRrR0duCm_Hg?e=XwqSHy",
+        "Effective From": "2018-04-01",
+        "Till": "2018-09-23"
+      }
+    }
+  },
+  "EVEREST": {
+    "VPP - HUP 1505": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EuEOB-wYd9pLk5_0hFPUePsBuz51vK5lnB3SXgKBM4OOsw?e=NiL88L",
+      "Effective From": "2015-05-12",
+      "Till": "2016-12-31"
+    }
+  },
+  "EVEREST Plusz": {
+    "VPP - HUP 1555": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Elht_82l4XJLlxHGnSRlXX0BrcMGHX28uPlmIhfC1IHpaA?e=4Nnvkh",
+      "Effective From": "2015-05-12",
+      "Till": "2016-12-31"
+    }
+  },
+  "EVEREST Pro": {
+    "GTC - 20170317": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkwpZb3ebXdAiZlfXW5hBZsBiRz2LALwCSOxqX2G1SN3nQ?e=sCZhNw",
+      "Effective From": "2017-03-21",
+      "Till": "2018-03-19"
+    },
+    "GTC - 20170620": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EouEjaBlIVhIp6R_32PxwEEB8-iTngyMKdu6YOrd01cijQ?e=hpWPW1",
+      "Effective From": "2017-07-01",
+      "Till": "2018-03-19"
+    },
+    "GTC - 20180324": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnjtNw3WQahBpC3wPBqd_ggB3IAaarwaJAOLN0Gk6Klz0A?e=2hWptn",
+      "Effective From": "2018-03-10",
+      "Till": "2018-07-03"
+    }
+  },
+  "EVEREST Pro Plusz": {
+    "GTC - 20170318": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnndJqBCrXlJqHRD7FFwVfMBWmWPb3OYOjQ6Kcq6RcOnog?e=GbVRp6",
+      "Effective From": "2017-03-21",
+      "Till": "2018-03-19"
+    },
+    "GTC - 20170619": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkgVV_kyFWBHjigTWeTQ_R8BpTAuE3tpscL0smifVvS3cg?e=bGCk5H",
+      "Effective From": "2017-07-01",
+      "Till": "2018-07-03"
+    }
+  },
+  "NIVO": {
+    "GTC - 20151106": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpJNPYFiyxxAgvb5FJriys4BreNz1Vbq69DzLdbI7QQtcA?e=P0bD7L",
+      "Effective From": "2015-11-15",
+      "Till": "2016-12-31"
+    }
+  },
+  "NIVO II": {
+    "GTC - 20170112": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EiP3liNFQ79KimtukBx6L78BsYxOLSuzIvUpCG4O3gYKYg?e=xoBxkk",
+      "Effective From": "2017-01-01",
+      "Till": "2018-07-03"
+    }
+  },
+  "HU": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 20170216": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/El3CL4fyNk5Cg3rGtpRRnpcBtVO-hfHRk0bnJJomiCAHrw?e=DUlhEB",
+        "Effective From": "2017-02-01",
+        "Till": "2018-05-14"
+      },
+      "GTC - 20171022": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvxBZdAt63pBk-rdejwLVJsBa29-ilSQkY5h2q6DSriAKg?e=ChsrUR",
+        "Effective From": "2017-11-01",
+        "Till": "2018-05-14"
+      },
+      "GTC - 20180323": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Et46wGh-m2FKhnMc3W6jpdsBfgKCofFly_ptBLKnFgIh-w?e=eijlGD",
+        "Effective From": "2018-04-23",
+        "Till": "2018-07-03"
+      }
+    }
+  },
+  "NOVUM": {
+    "GTC - 20160911": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnlS23ICqnBPv6M1Iw-6rbABONPQpCAX7CSX2RqR75W4gg?e=8lJdgZ",
+      "Effective From": "2016-09-01",
+      "Till": "2016-12-31"
+    },
+    "VPP - HUP 1014": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqGDQbEum5lCpgxz9PNcqooBPseVoOUUBVjAbbGoyHGEyQ?e=P1MRfh",
+      "Effective From": "2014-10-17",
+      "Till": "2015-03-25"
+    },
+    "VPP - HUP 1114": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EoYl-y85nupKjfQGFlRZD-ABQFFcGLbAUuQGJVHsySIiOQ?e=hT79fy",
+      "Effective From": "2014-11-04",
+      "Till": "2015-03-25"
+    },
+    "VPP - HUP 1503": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjDX7DLTzGxDiOa5rWYyxUoBGUq4rceO8XSmh83nnpKh9w?e=HChi5U",
+      "Effective From": "2015-03-25",
+      "Till": "2016-09-30"
+    }
+  },
+  "NOVUM Pro": {
+    "GTC - 20170113": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtCL8GoF2ppEvs1PSBqPM84BLxXo_aw7148OPQkoxIMjpw?e=V90UZ2",
+      "Effective From": "2017-01-01",
+      "Till": "2017-07-31"
+    },
+    "GTC - 20170821": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtSXTCIJJV1JnHNsylcWFPUBJEe4ysOdgivq6UUOiq0jfQ?e=0H99SX",
+      "Effective From": "2017-08-01",
+      "Till": "2018-07-03"
+    }
+  },
+  "Sensum": {
+    "GTC - 20180924": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvQG15LM5VREnyfOoOwQmcoBL3TrbBb0O2VEHShSDVIoKw?e=GdfNYK",
+      "Effective From": "2018-09-18",
+      "Till": "2019-01-15"
+    },
+    "GTC - 20181125": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhXyGcFbj4pNok78rlkVTy4BtVHCzTQKrJmFhF8cCRr_zA?e=Tm6Jad",
+      "Effective From": "2018-11-26",
+      "Till": "2019-09-24"
+    }
+  },
+  "IS": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 17180201": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpVcKbSt1E9NtUUifBs1nWIB9WJpohU-P1Eyg2wM8DA7tw?e=FlzGiZ",
+        "Effective From": "2018-02-10",
+        "Till": "2018-11-23"
+      },
+      "GTC - 17180202": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EvO48RvqUJhOrIZXSHsLDk4BPYhkB0dGAd03DriJf9kAhA?e=a6qumW",
+        "Effective From": "2018-02-22",
+        "Till": "2018-11-23"
+      },
+      "GTC - 17180903": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EmTQJN-Toy5EqXTTd3eVMVQB4pdJHWyS8ps5nzpAwwHIiQ?e=7wvc3p",
+        "Effective From": "2018-09-01",
+        "Till": "2019-06-01"
+      },
+      "GTC - 17190404": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkTdSCjgNR9Gq_HD_0sh5f4Bu1IOfeTR09Ygtvj-WyX2Dw?e=AKwtGM",
+        "Effective From": "2019-04-01",
+        "Till": "2019-09-06"
+      },
+      "GTC - 17190805": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgCpDxsb_OlHr3yOABjJ_LoB1Jfh-L_Ck_cMMb71_iLs5g?e=htA2J9",
+        "Effective From": "1970-01-01",
+        "Till": "1970-01-01"
+      }
+    }
+  },
+  "International (EN)": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 90160802": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EseA0ZjwgxNPtWGi34vbAaABwFngiYBlfPn1fHjghTgr4A?e=31h0rJ",
+        "Effective From": "2016-08-01",
+        "Till": "2019-06-09"
+      },
+      "GTC - 90171003": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Epuxxj9_YqNKsJ4Ss7neuFIBitsf_IBOT2WYQz70zElsLg?e=iyU57t",
+        "Effective From": "2017-09-15",
+        "Till": "2019-06-09"
+      },
+      "GTC - 90180204": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EmWwwWzlwMRBt9XQFKP2_0EBhZEwiICLNl9-HAF_h8D40Q?e=hvP8Vu",
+        "Effective From": "2018-02-22",
+        "Till": "2019-06-09"
+      }
+    }
+  },
+  "NOVIS Universal Life": {
+    "GTC - 60180905": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ekjixuj8zOpLkQ1serEkcsUBxmMX0jBCN0FKSfaXYqceVw?e=eFvvd9",
+      "Effective From": "2018-09-24",
+      "Till": "2019-10-11"
+    }
+  },
+  "IT": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 60170401": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqViFnuCg4RMoAn6-th4AsABZ4voOj2VeNhhZ8IWxjdaPg?e=RLDMaM",
+        "Effective From": "2017-04-15",
+        "Till": "2018-03-08"
+      },
+      "GTC - 60171102": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Et8KecQzh61JqjBiShYaZgUBPJeFQfEK05GOFecrCFkIRQ?e=HvtBOG",
+        "Effective From": "2017-11-27",
+        "Till": "2018-04-01"
+      },
+      "GTC - 60180203": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqldvwgFNIRDoMmClJwCrSEBt11NVLd0zB1BLxt1M1D6iA?e=SynsWS",
+        "Effective From": "2018-02-01",
+        "Till": "2018-07-01"
+      },
+      "GTC - 60180704": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Em48EGd9iYRPhjicHiwGXUABukpVP90eDIaytpkKNEyrNA?e=q2tDba",
+        "Effective From": "2018-07-01",
+        "Till": "2018-09-04"
+      }
+    }
+  },
+  "PL": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 70170101": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EmSMMv6Z92tOnbRj87C6M_0BA42Y-D_HXU5pS0vkcv7usw?e=S14k7g",
+        "Effective From": "2017-01-01",
+        "Till": "2018-02-01"
+      },
+      "GTC - 70171003": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjT6PfficthDto2UuSuctToB7mabC77dCdy26DD5foA8eg?e=NaS97t",
+        "Effective From": "2017-10-01",
+        "Till": "2019-10-01"
+      }
+    }
+  },
+  "Best Future": {
+    "GTC - 10170616": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqqEZMYkYWpMvwoXFO2QmBIBEbtZw797qdPdO6OsKEKfUQ?e=TpWAsV",
+      "Effective From": "2017-06-15",
+      "Till": "2018-12-31"
+    },
+    "GTC - 10180619": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EubLEYI3gGxAm6cEdT_zWf0B1NkZwokpDomDdbBzI7vSwA?e=QIrUMo",
+      "Effective From": "2018-06-01",
+      "Till": "2019-02-28"
+    },
+    "GTC - 10190121": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkMb5eB0XT1Alof12ivE0OQBtkOh2VKW-f6iowBFpKFkOQ?e=RE8qky",
+      "Effective From": "2019-01-01",
+      "Till": "2019-10-20"
+    }
+  },
+  "NOVIS Futura": {
+    "GTC - 10150611": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhNIyK9cxyRMonU2Q7WRzQsB_7Vp8NdjY4SAsNdHhDCLnA?e=EsL4Le",
+      "Effective From": "2015-06-15",
+      "Till": "2016-03-29"
+    }
+  },
+  "NOVIS Ľudská dôstojnosť": {
+    "GTC - 10150106": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ejk8h1xHbJFGsJazzEd3Z9wBg8JLNFFErjF359XydSaDEQ?e=L7hF6z",
+      "Effective From": "2015-03-10",
+      "Till": "2018-03-31"
+    }
+  },
+  "NOVIS Univerzálne poistenie pre zdravý a dlhý život": {
+    "GTC - 10150108": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgbdNHutUEFPlSSHYP8krhkBaO_DBcu-WsgqTWoUcahuig?e=dhS6lF",
+      "Effective From": "2015-01-15",
+      "Till": "2018-03-28"
+    },
+    "GTC - 10150310": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EiJkkPIOYSVHgiJettv4NpEBPJRYMIjGhhXHfky3F-ErjQ?e=VOH8yf",
+      "Effective From": "2015-02-15",
+      "Till": "2018-03-28"
+    },
+    "GTC - 10160112": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EpJCqc29bf5OuRIfUqgpiMEBjbHDstbm_fj0T37tJv1BSA?e=OAeGVH",
+      "Effective From": "2016-01-01",
+      "Till": "2018-03-28"
+    },
+    "NUP - 0214": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EnLHtPMO4F1OvGbATjYQpGUBit47KR1Z_LBoV0ERgBgreg?e=F4GsWP",
+      "Effective From": "2014-02-15",
+      "Till": "2018-03-28"
+    },
+    "NUP - 1113": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Eq10gQ4wyZ9IrjVz6fWi2rMBXEoeTAwZj6dVVtVM9ubY-Q?e=kjLtf4",
+      "Effective From": "2013-11-15",
+      "Till": "2018-03-28"
+    },
+    "SKUP - 1114": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqlgOGu20_tKuoIxjylBw6MBMxJ5EvTz_lvjbLjkCsbY9A?e=WbiG35",
+      "Effective From": "2014-11-01",
+      "Till": "2018-03-28"
+    }
+  },
+  "SK": {
+    "NOVIS Wealth Insuring": {
+      "GTC - 10160814": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Er5Vwh6a5etNmLr-Bt7GnyEBjugwEsfbaU1MrSwHqnU-eA?e=XttoS2",
+        "Effective From": "2016-08-01",
+        "Till": "2018-03-28"
+      },
+      "GTC - 10170415": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EkzXNhr0W4xAg502_UVbS9EBWEz3LlTzGc_tv_-D58Z5mA?e=e6zxPX",
+        "Effective From": "2017-04-01",
+        "Till": "2018-12-31"
+      },
+      "GTC - 10171017": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EiZFkWbD0LpKpZeTA8So_UcB45uwzgVb0wdY8tLjz9_qNw?e=8v83Gs",
+        "Effective From": "2017-10-01",
+        "Till": "2018-12-31"
+      },
+      "GTC - 10180618": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Elcys9PfFHBCg9gBOuEIF-oBG3ioxcY2WtTh6t1fgDXN7A?e=Pu1nMZ",
+        "Effective From": "2018-06-01",
+        "Till": "2019-02-28"
+      },
+      "GTC - 10190120": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Em17VUQyskVHrCSmm4YghUkBSsFBMs3qkUykTUFind4Y8g?e=zwNJGN",
+        "Effective From": "2019-01-01",
+        "Till": "2019-09-30"
+      }
+    }
+  },
+  "NOVIS SCM Sustainable Plan": {
+    "GTC - 60230035": {
+      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjCMooXPRRxMvE5neELA868BFf9_fxjthzrG1gG4fOvh6Q?e=gQYHjz",
+      "Effective From": "2023-05-17",
+      "Till": "1970-01-01"
+    }
+  }
+}
